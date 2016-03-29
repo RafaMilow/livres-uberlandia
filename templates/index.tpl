@@ -3,6 +3,17 @@
 <head>
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta property="og:locale" content="pt_BR">
+	<meta property="og:url" content="http://www.livresuberlandia.com.br">
+	<meta property="og:title" content="LIVRES Uberlândia">
+	<meta property="og:site_name" content="Página do LIVRES Uberlândia">
+	<meta property="og:description" content="Faça parte do LIVRES Uberlândia, faça parte dessa mudança, abandone essa política antiga.">
+	<meta property="og:image" content="http://www.livresuberlandia.com.br/assets/facebook_screen.jpg">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image:width" content="690">
+	<meta property="og:image:height" content="500">
+	<meta property="og:type" content="website">
+
 	<title>Livres Uberlândia</title>
 	<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
 	<link rel="stylesheet" type="text/css" href="css/min/main.min.css">
