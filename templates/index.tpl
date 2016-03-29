@@ -21,11 +21,11 @@
 		<div class="row">
 			<div class="large-6 columns facebook">
 				<p>Siga-nos no Facebook</p>
-				<span class="icon-facebook2"></span>
+				<a href="https://www.facebook.com/groups/livresuberlandia/" target="_blank"><span class="icon-facebook2"></span></a>
 			</div>
 			<div class="large-6 columns github">
 				<p>LIVRES na sua cidade!</p>
-				<span class="icon-github"></span>
+				<a href="https://github.com/RafaMilow/livres-uberlandia" target="_blank"><span class="icon-github"></span></a>
 			</div>
 		</div>
 
